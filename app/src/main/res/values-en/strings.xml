@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GExame</string>
+    <string name="nome_do_exame">exam name...</string>
+    <string name="unidade_de_atendimento">care unit...</string>
+    <string name="solicita_o_de_exame">Exam Request</string>
+    <string name="foto_do_pedido_medico">Medical order photo:</string>
+    <string name="solicitar">Request</string>
+    <string name="ol_ricson_seja_bem_vindo">Hi Richson, welcome!</string>
+    <string name="solicitar_exame">Request Exam</string>
+    <string name="seus_exames">Your Exams</string>
+    <string name="perfil">Profile</string>
+    <string name="fa_a_seu_login_e_cadastre_gerencie_sua_consulta">Log in and register/manage your query.</string>
+    <string name="nome">name...</string>
+    <string name="cpf">CPF...</string>
+    <string name="entrar">To enter</string>
+    <string name="ir_para_a_pagina_principal">Go to Main Page</string>
+</resources>

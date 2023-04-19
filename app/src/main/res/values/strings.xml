@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GExame</string>
+    <string name="nome_do_exame">nome do exame...</string>
+    <string name="unidade_de_atendimento">unidade de atendimento...</string>
+    <string name="solicita_o_de_exame">Solicitação de Exame</string>
+    <string name="foto_do_pedido_medico">Foto do pedido medico:</string>
+    <string name="solicitar">Solicitar</string>
+    <string name="ol_ricson_seja_bem_vindo">Olá ricson, seja bem vindo!</string>
+    <string name="solicitar_exame">Solicitar Exame</string>
+    <string name="seus_exames">Seus Exames</string>
+    <string name="perfil">Perfil</string>
+    <string name="fa_a_seu_login_e_cadastre_gerencie_sua_consulta">Faça seu Login e cadastre/gerencie sua consulta.</string>
+    <string name="nome">nome...</string>
+    <string name="cpf">cpf...</string>
+    <string name="entrar">Entrar</string>
+    <string name="ir_para_a_pagina_principal">Ir para a Pagina Principal</string>
+</resources>
